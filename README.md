@@ -4,7 +4,7 @@ CNNPRE: A CNN-Based Protocol Reverse Engineering Method
 ## Introduction
 A CNN-Based PRE method for Message Type Identification based on network traffic and traffic features, which is used Convolutional Neural Networks (CNN) and Deep Transfer Learning (DTL).
 
-- for more information about CNNPRE please refer to its paper. (Coming Soon):
+- for more information about CNNPRE please refer to its paper. (Coming Soon)
 ## Usage
 You can run cnnpre.ipynb notebook on Google Colab
 
