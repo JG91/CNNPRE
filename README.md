@@ -9,7 +9,9 @@ A CNN-Based PRE method for Message Type Identification based on network traffic 
 You can run cnnpre.ipynb notebook on Google Colab
 
 ## Dataset (Source PCAP Files)
-Western Regional Collegiate Cyber Defense Competition (WRCCDC) regional competition for 2021, can be downloaded from the WRCCDC archive (available at: https://archive.wrccdc.org/pcaps/2021/regionals/feed1/, accessed on 8 June 2023) 
+- Western Regional Collegiate Cyber Defense Competition (WRCCDC) regional competition for 2021, can be downloaded from the WRCCDC archive (available at: https://archive.wrccdc.org/pcaps/2021/regionals/feed1/, accessed on 8 June 2023)
+
+- GSM PCAP file is located in PCAP folder.
 
 ## Dataset (Pre-Proccessed CSV files)
 available for download in Data folder. 
